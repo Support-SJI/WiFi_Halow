@@ -2,7 +2,6 @@
 WiFi Halow(802.11AH) Module
 
 WHM100A - WiFi Halow KR High Power Module
-
 WHM110A - WiFi Halow KR Low Power Module
 
 WHM200A - WiFi Halow US High Power Module
