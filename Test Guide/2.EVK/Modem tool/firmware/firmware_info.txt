@@ -1,0 +1,2 @@
+Boot:     12660
+Firmware: 8768
