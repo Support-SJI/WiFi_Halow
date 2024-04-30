@@ -2,6 +2,7 @@
 WiFi Halow(802.11AH) Module
 
 ---------------------------------------
+
 *WHM100A - WiFi Halow KR High Power Module
 
 *WHM110A - WiFi Halow KR Low Power Module
@@ -15,4 +16,5 @@ WiFi Halow(802.11AH) Module
 *WHM400A - WiFi Halow JP Low Power Module
 
 *WHM500A - WiFi Halow EU Low Power Module
+
 ---------------------------------------
